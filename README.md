@@ -5,3 +5,6 @@ Develops and supports business processes by maintaining and enhancing Oracle For
 Or if you're highlighting past experience:
 
 "Worked on enhancing and stabilizing Oracle Forms and related databases, implementing solutions based on documented business requirements and user stories.
+
+
+Developer Platform and MuleSoft to enhance his skills in CRM development and system integration."
